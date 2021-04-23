@@ -9,7 +9,7 @@ qwertyui
 cvbnm   
 Второй файл   
 [2] Успешно записано! [2]   
-andrey@andrey-VivoBook:~/Рабочий стол/OC/OChelp/4/own$ cat res   
+andrey@andrey-VivoBook:~ /Рабочий стол/OC/OChelp/4/own$ cat res   
 qwrt   
-andrey@andrey-VivoBook:~/Рабочий стол/OC/OChelp/4/own$ cat res2   
+andrey@andrey-VivoBook:~ /Рабочий стол/OC/OChelp/4/own$ cat res2   
 cvbnm   
