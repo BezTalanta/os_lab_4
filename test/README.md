@@ -1,4 +1,4 @@
-andrey@andrey-VivoBook:~/Рабочий стол/OC/OChelp/4/own$ ./a.out    
+andrey@andrey-VivoBook:~/ Рабочий стол/OC/OChelp/4/own$ ./a.out    
 Введи в следующий двух строках - пути к файлам, куда я буду отправлять выходные данные ^_^   
 res   
 res2   
